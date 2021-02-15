@@ -1,5 +1,3 @@
-reuters
-ap
 jan
 feb
 mar
